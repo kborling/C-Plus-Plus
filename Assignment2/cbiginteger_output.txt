@@ -1,0 +1,198 @@
+Please enter first CBigInteger variable
+5000
+Please enter second CBigInteger variabl
+-6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+1
+5000 + -6000 = -1000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+2
+5000 - -6000 = 11000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+3
+5000 * -6000 = -30000000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+5
+First: 5000
+Second: -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+6
+5000 doesn't equal -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+7
+5000 doesn't equal -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+8
+5000 is not less than -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+9
+5000 is greater than -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+10
+5000 is not less than or equal to -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+11
+5000 is greater than or equal to -6000
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+4
+Assigning: num1 = num2
+
+Please choose from 1-12
+1) Perform Addition (+)
+2) Perform Subtraction (-)
+3) Perform Multiplication (*)
+4) Perform Assignment (=)
+5) Print Big Integer Values(<<)
+6) Check Equalilty (==)
+7) Check Inequliaty (!=)
+8) Check Less Than (<)
+9) Check Greater Than (>)
+10) Check Less Than or Equal To (<=)
+11) Check Greater Than or Equal To (>=)
+12) Exit
+5
+First: -6000
+Second: -6000

@@ -1,0 +1,78 @@
+PACKAGE UNLOADING INFORMATION:
+------------------------------FINAL TRUCK INFORMATION:
+------------------------
+Packages Delivered: 5
+Total weight of packages: 2.35493e+006 lbs
+
+----------------------------
+Package Type: letter
+Tracking Number: 123450
+Weight: 10 ounces
+LOADED
+
+Package Type: box
+Tracking Number: 5555551
+Weight: 40 pounds
+LOADED
+
+Package Type: wood crate
+Tracking Number: 123892
+Weight: 80 pounds
+LOADED
+
+Package Type: metal crate
+Tracking Number: 656563
+Weight: 100 pounds
+LOADED
+
+Package Type: unknown
+Tracking Number: 3456544
+Weight: 55
+NOT LOADED: UNKNOWN PACKAGE TYPE
+
+Package Type: letter
+Tracking Number: 879880
+Weight: 33
+NOT LOADED: TOO HEAVY
+
+Package Type: letter
+Tracking Number: 890980
+Weight: 2 ounces
+LOADED
+
+Package Type: box
+Tracking Number: 11111
+Weight: 39
+NOT LOADED: TRUCK FULL
+
+LOADED TRUCK WEIGHT: 10220 pounds, 12 ounces
+
+DRIVING TRUCK FROM Spokane TO San Fransisco...
+ARRIVED AT San Fransisco
+
+PACKAGE UNLOADING INFORMATION:
+------------------------------
+Package Type: letter
+Tracking Number: 123450
+Weight: 10 ounces
+
+Package Type: box
+Tracking Number: 5555551
+Weight: 40 pounds
+
+Package Type: wood crate
+Tracking Number: 123892
+Weight: 80 pounds
+
+Package Type: metal crate
+Tracking Number: 656563
+Weight: 100 pounds
+
+Package Type: letter
+Tracking Number: 890980
+Weight: 2 ounces
+
+FINAL TRUCK INFORMATION:
+------------------------
+Packages Delivered: 5
+Total cost: $580.60
